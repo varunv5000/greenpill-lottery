@@ -39,7 +39,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <ThemeProvider theme={theme}>
-          <img src={logo}></img>
+          <img src={logo} alt="greenpill-logo"></img>
           {page === "home" && (
             <div>
               <h2>Try the Greenpill Lottery!</h2>
