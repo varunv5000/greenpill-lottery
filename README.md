@@ -1,4 +1,10 @@
-# Create React App
+# GreenPill Lottery
+
+The Greenpill Lottery is a fun way to donate to a random Gitcoin Grant if you are stuck not knowing which grant to donate to. Check it out at https://greenpill-lottery.vercel.app
+
+
+
+## Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
